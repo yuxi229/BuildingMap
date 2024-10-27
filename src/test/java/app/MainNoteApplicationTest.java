@@ -46,9 +46,9 @@ public class MainNoteApplicationTest {
 
     /**
      * This is an example of an end-to-end test with a mocked database.
-     * The code creates the application and directly tests to see that the GUI
+     * <p>The code creates the application and directly tests to see that the GUI
      * is updated as expected when the buttons and UI elements are interacted with.
-     * <p/>
+     * </p>
      * You can run the test to visually see what happens.
      */
     @Test
