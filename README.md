@@ -1,3 +1,11 @@
+# Team Members 
+Yuxi Zhang (yuxi229) 
+Bosen Xu ()
+Nicholas Koh (NicholasKohde)
+Rishith Singhagra (rishithsinghagra) 
+Jackie Chen (39kie)
+Carter Hugill (
+
 # Note Application
 
 This is a minimal example demonstrating usage of the
