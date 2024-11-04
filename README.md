@@ -4,7 +4,7 @@ Bosen Xu ()
 Nicholas Koh (NicholasKohde)
 Rishith Singhagra (rishithsinghagra) 
 Jackie Chen (39kie)
-Carter Hugill (
+Carter Hugill (chugill)
 
 # Note Application
 
