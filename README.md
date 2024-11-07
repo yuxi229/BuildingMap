@@ -1,7 +1,7 @@
 # Team Members 
 Yuxi Zhang (yuxi229) 
 Bosen Xu ()
-Nicholas Koh (NicholasKohde)
+Nicholas Koh (nicholaskohh)
 Rishith Singhagra (rishithsinghagra) 
 Jackie Chen (39kie)
 Carter Hugill (chugill)
